@@ -1,5 +1,5 @@
 # InputHook / Freeze Keyboard & Mouse Input
-Wanting to turn off the keyboard and the mouse while cleaning them?
+Wanting to turn off keyboard and mouse while cleaning them?
 
 No problem! This simple program can do exactly that! No extra features or configurations, only what the title says.
 
